@@ -1,8 +1,13 @@
 # Vagrant-Miner
 
-This miner is based on vagrant image (.box file) of Ubuntu 20.x, installed with all the prerequsites required for mining the new BTCIL (=BitCoinIL) coin.
+This miner is based on vagrant image (.box file) of Ubuntu 20.x, 
+
+installed with all the prerequsites required for mining the new BTCIL (=BitCoinIL) coin.
+
 Built with Vagrant 2.2.14 on Windows 10.
+
 Contains: BTCIL wallet, BTCIL daemon + tools, cpu miner? TBD
+
 
 # Installation instructions
 - install latest Vagrant software for windows 10
