@@ -8,6 +8,7 @@ Contains: BTCIL wallet, BTCIL daemon + tools, cpu miner? TBD
 - install latest Vagrant software for windows 10
 - download the box file from the following link (Google Drive): 
   https://drive.google.com/u/0/uc?id=1zag2aErrkreE-0Nkg1HqOh11IL3z-W4-&export=download
+
 - run: 
 
 vagrant init <box file path>
@@ -15,6 +16,7 @@ vagrant init <box file path>
 vagrant up
   
 - login details: 
+
 IP: 127.0.0.1
 
 Port: 2222
