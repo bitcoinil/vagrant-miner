@@ -33,6 +33,8 @@ pass: vagrant
 
 All the BTCIL tools are in /root/release
 
+pre-installed wallet name : gadh
+
 Feel free to update the box file with your changes (such as CPU miner, scripts for easy running, etc.), 
 using the vagrant package command - https://www.vagrantup.com/docs/cli/package
 and uploading the box file for others to download !
